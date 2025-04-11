@@ -9,8 +9,7 @@ Here are some ideas to get you started:
 - 💻I’m currently in my second year of studying  Computer Science at Voillaume highSchool (in France, Aulnay-Sous-Bois)
 - 🌱 Right now, i'm learning Machine Learning through many courses Online Like Google AI - Machine Learning Crash Course (MLCC)
 - 📫 How to reach me: myriam.siad.sio@gmail.com
-- 🎮 My Hoobies : I love playing video games and working out
-- ⚡ Fun fact: There is nothing funny about me ! 
+
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
